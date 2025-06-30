@@ -3,5 +3,5 @@ This is a text summarization project.
 
 
 
-<img src="summarizer.png" alt="Model Architecture" width="500"/>
+<img src="summarizer.png" alt="Model Architecture" width="2000"/>
 
